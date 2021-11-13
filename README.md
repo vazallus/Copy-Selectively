@@ -1,5 +1,6 @@
 # Copy-Selectively
 A python script for copying files selectively.
+
 Step 1 start the script
 Step 2 choose the folder path
 Step 3 choose file extension
